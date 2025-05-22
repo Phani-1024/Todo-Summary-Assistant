@@ -27,8 +27,6 @@ A full-stack productivity app that lets users manage their to-dos and generate a
 
 ## 🛠️ Getting Started
 
-### 1. Clone the Repo
-
 ```bash
 git clone https://github.com/Phani-1024/Todo-Summary-Assistant.git
 cd Todo-Summary-Assistant
